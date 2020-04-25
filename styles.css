@@ -1,0 +1,12 @@
+#app{
+    font-family: sans-serif;
+}
+.navBar{
+    display: flex;
+    flex-direction: row;
+    background-color: dodgerblue;
+    color: white;
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+}
